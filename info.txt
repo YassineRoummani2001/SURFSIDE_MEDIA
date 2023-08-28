@@ -1,0 +1,9 @@
+Admin = [
+    'email'='yassinerou221@email.com',
+    'password'='yassine123'
+]
+
+User =[
+    'email'='yassine@email.com',
+    'password'='yassine1234'
+]
